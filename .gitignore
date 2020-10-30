@@ -1,0 +1,4 @@
+# Project exclude paths
+/mybatisx/target/
+/mybatisx-spring-boot-starter/target/
+/mybatisx-spring-boot-stater-autoconfigure/target/
